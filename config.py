@@ -1,0 +1,2 @@
+TOKEN = ''
+OPENWEATHER_KEY = ''
